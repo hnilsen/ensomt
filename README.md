@@ -1,4 +1,4 @@
 ensomt
 ======
 
-ensomt.no - fordi alle trenger en familie i høytiden
+ensomt.no - fordi alle trenger en familie i høytiden.
