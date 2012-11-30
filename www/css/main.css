@@ -1,0 +1,36 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.hero-unit.ensom {
+	margin-right: 40px;
+}
+
+.hero-unit.ensom,
+.hero-unit.hjerte {
+	width: 440px;
+	display: inline-block;
+}
+
+img.hjerte {
+	width: 400px;
+}
+
+img.ensom {
+	width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
