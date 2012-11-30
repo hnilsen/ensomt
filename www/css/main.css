@@ -4,25 +4,15 @@
    Author's custom styles
    ========================================================================== */
 
-.hero-unit.ensom {
-	margin-right: 40px;
+.img-medium {
+	width: 60%;
+	display: block;
+	margin: 0 auto;
 }
 
-.hero-unit.ensom,
-.hero-unit.hjerte {
-	width: 440px;
-	display: inline-block;
+.centered {
+	text-align: center;
 }
-
-img.hjerte {
-	width: 400px;
-}
-
-img.ensom {
-	width: 400px;
-}
-
-
 
 
 
